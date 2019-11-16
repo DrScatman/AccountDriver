@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AccountDriver:jar">
+    <output-path>$USER_HOME$/Documents/RSPeer/scripts</output-path>
+    <root id="archive" name="AccountDriver.jar">
+      <element id="module-output" name="AccountDriver" />
+    </root>
+  </artifact>
+</component>
